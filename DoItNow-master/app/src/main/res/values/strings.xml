@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoItNow</string>
+
+    <string name="highpriority">High</string>
+</resources>
